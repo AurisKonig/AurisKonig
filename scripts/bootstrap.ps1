@@ -1,10 +1,21 @@
-﻿<p align="center">
+Set-StrictMode -Version Latest
+New-Item -ItemType Directory -Force -Path assets | Out-Null
+New-Item -ItemType Directory -Force -Path .vscode | Out-Null
+New-Item -ItemType Directory -Force -Path scripts | Out-Null
+'{"recommendations":["yzhang.markdown-all-in-one","davidanson.vscode-markdownlint","esbenp.prettier-vscode"]}' | Set-Content .vscode/extensions.json -Encoding UTF8
+'{ "editor.wordWrap":"on","editor.formatOnSave":true,"files.trimTrailingWhitespace":true,"markdown.preview.breaks":true }' | Set-Content .vscode/settings.json -Encoding UTF8
+'{ "default":true, "MD013":false, "MD033":false }' | Set-Content ./.markdownlint.json -Encoding UTF8
+".DS_Store`nThumbs.db`nnode_modules/`ndist/`n.env`n*.log`n" | Set-Content ./.gitignore -Encoding UTF8
+Set-Content assets/banner.png -Value '#' -Encoding Byte
+Set-Content assets/avatar.png -Value '#' -Encoding Byte
+@"
+<p align="center">
   <img src="assets/banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hola, soy Rafael â€œAurisâ€ Ancalipe</h1>
+<h1 align="center">Hola, soy Rafael “Auris” Ancalipe</h1>
 <p align="center">
-Ingeniero informÃ¡tico y emprendedor. Construyo productos web y mÃ³viles con foco en seguridad, performance y negocio medible.
+Ingeniero informático y emprendedor. Construyo productos web y móviles con foco en seguridad, performance y negocio medible.
 </p>
 
 <p align="center">
@@ -14,9 +25,9 @@ Ingeniero informÃ¡tico y emprendedor. Construyo productos web y mÃ³viles con
 
 ## Lo que hago
 - Desarrollo de productos: MVPs con React, Node.js, Python y Firebase.
-- Seguridad y GRC: hardening, automatizaciÃ³n de controles e informes.
-- AutomatizaciÃ³n con Python: RPA, scraping Ã©tico y pipelines de datos.
-- Freelance end-to-end: diseÃ±o, backend, frontend, despliegue y mÃ©tricas.
+- Seguridad y GRC: hardening, automatización de controles e informes.
+- Automatización con Python: RPA, scraping ético y pipelines de datos.
+- Freelance end-to-end: diseño, backend, frontend, despliegue y métricas.
 
 ## Ahora
 - Construyendo y validando ideas con Lean Startup.
@@ -52,16 +63,16 @@ Ingeniero informÃ¡tico y emprendedor. Construyo productos web y mÃ³viles con
 
 ## Servicios
 - Desarrollo de MVPs
-- AuditorÃ­a ligera de seguridad
-- AutomatizaciÃ³n y scripts
+- Auditoría ligera de seguridad
+- Automatización y scripts
 - Dashboards y reporting
 
-## CÃ³mo trabajo
+## Cómo trabajo
 - Calidad primero: performance, accesibilidad y seguridad.
-- MÃ©tricas accionables y ciclos Build-Measure-Learn.
+- Métricas accionables y ciclos Build-Measure-Learn.
 - Entrega continua con CI/CD y revisiones.
 
-## MÃ©tricas
+## Métricas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AurisKonig&show_icons=true&hide=stars,issues&rank_icon=github&hide_border=true" />
 </p>
@@ -78,3 +89,8 @@ Ingeniero informÃ¡tico y emprendedor. Construyo productos web y mÃ³viles con
 <p align="center">
   <img src="assets/avatar.png" width="90" height="90" style="border-radius:50%" />
 </p>
+"@ | Set-Content ./README.md -Encoding UTF8
+git add .
+git commit -m "feat: profile README initial"
+git push -u origin main
+code .
