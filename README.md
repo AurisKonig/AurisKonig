@@ -10,8 +10,7 @@ Ingeniero informático y emprendedor. Construyo productos web y móviles con foc
 <p align="center">
   <a href="https://github.com/4ur1s?tab=followers"><img src="https://img.shields.io/github/followers/4ur1s?style=flat&label=Followers" /></a>
   <a href="https://komarev.com/ghpvc/?username=4ur1s"><img src="https://komarev.com/ghpvc/?username=4ur1s&style=flat" /></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafaelancalipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white" /></a>
 </p>
 
