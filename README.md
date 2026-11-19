@@ -1,215 +1,193 @@
 ﻿
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner de Rafael Ancalipe" width="100%">
+# Rafael Ancalipe
 
-# Rafael "Auris" Ancalipe
+### Full Stack Developer · Software Engineer
 
-### Ingeniero Informático | Full Stack Developer
+Ingeniero Informático enfocado en el desarrollo de aplicaciones web, integración de APIs y soluciones de software.
 
-**Desarrollo de Software · Aplicaciones Web · Inteligencia Artificial**
-
-Desarrollador Full Stack con conocimientos en frontend, backend, bases de datos, integración de APIs y automatización de procesos.
-
-Actualmente profundizando mis conocimientos en Inteligencia Artificial, con el objetivo de especializarme en su integración con aplicaciones y productos digitales.
+Con conocimientos en inteligencia artificial y en proceso de profundizar en su integración con aplicaciones Full Stack.
 
 **Santiago, Chile · Inglés B2**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelancalipe/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AurisKonig)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raphaelauris@gmail.com)
+<a href="https://www.linkedin.com/in/rafaelancalipe/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:Raphaelauris@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico">
+</a>
+<a href="https://github.com/AurisKonig">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
 ---
 
-## Sobre mí
-
-Soy Ingeniero Informático y Analista Programador Computacional titulado de Duoc UC, enfocado en el desarrollo de software Full Stack.
-
-Me interesa construir aplicaciones web funcionales, mantenibles y escalables, combinando interfaces intuitivas, servicios backend, APIs y bases de datos.
-
-También cuento con conocimientos en inteligencia artificial generativa y busco seguir profundizando en su aplicación a la ingeniería de software.
-
----
-
-## Stack tecnológico
+## Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML, CSS, JavaScript, TypeScript y React">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="HTML, CSS, JavaScript, TypeScript y React">
 </p>
 
-HTML5 · CSS3 · JavaScript · TypeScript · React
-
-### Backend y lenguajes
+### Backend & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel,solidity" alt="Node.js, Python, Java, PHP, Laravel y Solidity">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel,solidity&theme=dark" alt="Node.js, Python, Java, PHP, Laravel y Solidity">
 </p>
 
-Node.js · Python · Java · PHP · Laravel · Solidity · APIs REST
-
-### Bases de datos
+### Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="PostgreSQL, MySQL, SQLite y Firebase">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" alt="PostgreSQL, MySQL, SQLite y Firebase">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore">
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logoColor=white" alt="Oracle SQL">
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore">
 </p>
 
-PostgreSQL · MySQL · SQLite · Oracle SQL · Cloud Firestore
-
-### Herramientas de desarrollo
+### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code y Postman">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Git, GitHub, Docker, VS Code y Postman">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logoColor=white" alt="DBeaver">
-  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logoColor=white" alt="SQL Developer">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logoColor=white" alt="DBeaver">
+  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logoColor=white" alt="SQL Developer">
 </p>
 
-Git · GitHub · Docker · VS Code · Postman · DBeaver · SQL Developer
+<details>
+<summary><b>Additional Technologies & Tools</b></summary>
 
-### Automatización y análisis de datos
+<br>
+
+**Automation & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/RPA-334155?style=for-the-badge" alt="RPA">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/RPA-475569?style=flat-square" alt="RPA">
 </p>
 
-Python · Pandas · Selenium · Power BI · Excel avanzado · RPA
-
-### Monitoreo y observabilidad
+**Monitoring & Observability**
 
 <p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge" alt="Dynatrace">
-  <img src="https://img.shields.io/badge/Atentus-475569?style=for-the-badge" alt="Atentus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square" alt="Dynatrace">
+  <img src="https://img.shields.io/badge/Atentus-475569?style=flat-square" alt="Atentus">
 </p>
+
+</details>
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-### Chess Study | Plataforma de análisis y aprendizaje de ajedrez
+### Chess Study
 
-**MVP funcional · Proyecto académico colaborativo**
+**Chess Analysis & Learning Platform**
 
-Aplicación web orientada al aprendizaje y análisis de partidas de ajedrez mediante un entrenador virtual basado en Stockfish.
+Aplicación web educativa para el estudio y análisis de partidas de ajedrez, desarrollada como proyecto académico colaborativo.
 
-**Stack tecnológico**
+Integra Stockfish para analizar partidas y ofrecer retroalimentación sobre los movimientos realizados.
+
+**Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stockfish](https://img.shields.io/badge/Stockfish-333333?style=flat-square)
 
-**Funcionalidades implementadas**
+**Características principales**
 
 - Análisis de partidas mediante Stockfish.
-- Importación y procesamiento de archivos PGN.
-- Autenticación con correo electrónico y Google.
-- Almacenamiento de estudios y partidas mediante Cloud Firestore.
+- Importación de archivos PGN.
+- Autenticación mediante correo electrónico y Google.
+- Almacenamiento de estudios y partidas en Cloud Firestore.
 - Evaluación y comentarios de movimientos.
 - Biblioteca personal de estudios.
 
-**Aspectos técnicos destacados**
+**Estado:** MVP funcional.
 
-- Desarrollo de interfaces con React.
-- Integración de un motor de análisis externo.
-- Gestión de autenticación y persistencia de datos.
-- Trabajo colaborativo mediante Git y GitHub.
-
-[Ver repositorio de Chess Study](https://github.com/AurisKonig/Chess_Study)
+[**View Repository**](https://github.com/AurisKonig/Chess_Study)
 
 ---
 
-### Conde-access | Proyecto de software
+### Other Projects
 
-**Pendiente de publicación**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Proyecto de desarrollo de software que será incorporado al portafolio junto con su documentación técnica, arquitectura y funcionalidades implementadas.
-
-**Repositorio:** Próximamente disponible.
-
----
-
-### Rentify | Plataforma de administración de arriendos
+### Rentify
 
 **PropTech · En desarrollo**
 
-Proyecto orientado a la administración de arriendos residenciales mediante una plataforma web.
+Plataforma web orientada a la administración de arriendos residenciales.
 
-El sistema está pensado para propietarios, administradores, arrendatarios y corredores de propiedades.
+Diseñada para propietarios, administradores, arrendatarios y corredores de propiedades.
 
-**Alcance previsto**
+**Enfoque:** desarrollo Full Stack, gestión de usuarios y administración de información inmobiliaria.
 
-- Aplicación web Full Stack.
-- Gestión de usuarios y roles.
-- Administración de información inmobiliaria.
-- Persistencia y organización de datos.
-- Integración de servicios.
+**Repositorio:** Próximamente.
 
-Las funcionalidades se documentarán a medida que sean implementadas.
+</td>
+<td width="50%" valign="top">
 
-**Repositorio:** Próximamente disponible.
+### Conde-access
+
+**Proyecto de software · Pendiente de publicación**
+
+Proyecto que será incorporado al portafolio junto con su documentación técnica.
+
+Se publicarán sus funcionalidades, arquitectura y tecnologías utilizadas una vez que estén disponibles.
+
+**Repositorio:** Próximamente.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Inteligencia Artificial
+## Artificial Intelligence
 
-### Área de especialización en desarrollo
+**Learning & Professional Development**
 
-Cuento con conocimientos en Inteligencia Artificial Generativa y utilizo herramientas como ChatGPT, Gemini y Claude para apoyar actividades de desarrollo de software, investigación técnica y resolución de problemas.
+Cuento con conocimientos en inteligencia artificial generativa y utilizo herramientas de IA como apoyo en actividades de desarrollo de software, investigación técnica y resolución de problemas.
 
-Actualmente busco profundizar en la integración de inteligencia artificial con aplicaciones Full Stack.
+Actualmente estoy profundizando en:
 
-**Áreas de interés**
-
-- Integración de APIs y modelos de IA.
-- Desarrollo de aplicaciones asistidas por IA.
+- Integración de modelos y APIs de inteligencia artificial.
+- Desarrollo de funcionalidades asistidas por IA.
 - Automatización inteligente.
 - Fundamentos de Machine Learning.
-- Procesamiento y análisis de datos.
+
+Mi objetivo es complementar mi perfil Full Stack con una especialización progresiva en inteligencia artificial aplicada al desarrollo de software.
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude">
 </p>
 
 ---
 
-## Contacto
-
-Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software e ingeniería de aplicaciones Full Stack.
-
-**Ubicación:** Santiago, Chile
-
-**Inglés:** B2
-
-**Correo:** [Raphaelauris@gmail.com](mailto:Raphaelauris@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/rafaelancalipe](https://www.linkedin.com/in/rafaelancalipe/)
-
-**GitHub:** [github.com/AurisKonig](https://github.com/AurisKonig)
-
----
+## Contact
 
 <div align="center">
 
-### Full Stack Development | Software Engineering
+**Open to Full Stack Development & Software Engineering opportunities**
 
-**Construyendo soluciones de software y avanzando hacia la especialización en Inteligencia Artificial.**
+Santiago, Chile · English B2
+
+[LinkedIn](https://www.linkedin.com/in/rafaelancalipe/) · [Email](mailto:Raphaelauris@gmail.com) · [GitHub](https://github.com/AurisKonig)
 
 </div>
