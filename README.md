@@ -45,56 +45,70 @@ Actualmente busco continuar desarrollándome profesionalmente como **Desarrollad
 
 ---
 
+
 ## Stack tecnológico
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Tecnologías frontend">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML5, CSS3, JavaScript, TypeScript y React">
 </p>
 
-HTML5 · CSS3 · JavaScript · TypeScript · React
-
-### Backend y APIs
+### Backend y lenguajes de programación
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel" alt="Tecnologías backend">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel,solidity" alt="Node.js, Python, Java, PHP, Laravel y Solidity">
 </p>
-
-Node.js · Python · Java · PHP · Laravel · APIs REST
 
 ### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Bases de datos">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="PostgreSQL, MySQL, SQLite y Firebase">
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="48" height="48">
 </p>
 
-PostgreSQL · MySQL · SQLite · Oracle SQL · Cloud Firestore
-
-**Herramientas:** DBeaver y Oracle SQL Developer.
+**Tecnologías:** PostgreSQL, MySQL, SQLite, Oracle SQL y Cloud Firestore.
 
 ### Herramientas de desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Herramientas de desarrollo">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, Visual Studio Code y Postman">
+  <img src="https://cdn.simpleicons.org/dbeaver/382923" alt="DBeaver" width="48" height="48">
 </p>
-
-Git · GitHub · Docker · Postman · Visual Studio Code
 
 ### Automatización y análisis de datos
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="48" height="48">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
-Python · Pandas · Selenium · RPA · Power BI · Excel avanzado
+**Áreas:** RPA, automatización de procesos, procesamiento de datos y dashboards.
+
+### Inteligencia Artificial Generativa
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+</p>
+
+**Conocimientos:** uso de herramientas de IA generativa para desarrollo de software, investigación técnica, análisis y resolución de problemas.
+
+**Objetivo:** profundizar en la integración de modelos y servicios de inteligencia artificial en aplicaciones Full Stack.
 
 ### Monitoreo y observabilidad
 
-Dynatrace · Atentus · Grafana
+<p>
+  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="48" height="48">
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge" alt="Dynatrace">
+  <img src="https://img.shields.io/badge/Atentus-444444?style=for-the-badge" alt="Atentus">
+</p>
+
+**Experiencia:** monitoreo de disponibilidad, rendimiento de servicios tecnológicos y gestión de alertas.
 
 ---
 
