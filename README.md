@@ -97,11 +97,11 @@ Con conocimientos en inteligencia artificial y en proceso de profundizar en su i
 Aplicación web desarrollada con React y Firebase que integra Stockfish para analizar partidas y proporcionar retroalimentación sobre movimientos.
 
 <p align="center">
-  <img src="assets/projects/chess-study/analysis.png" alt="Chess Study - Análisis de partidas con Stockfish" width="90%">
+  <img src="assets/projects/chess-study/analysis.png" alt="Análisis de partidas" width="800">
 </p>
 
 <p align="center">
-  <img src="assets/projects/chess-study/dashboard.png" alt="Chess Study - Panel principal" width="75%">
+  <img src="assets/projects/chess-study/dashboard.png" alt="Panel principal" width="800">
 </p>
 
 <p align="center">
