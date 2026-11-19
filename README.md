@@ -1,126 +1,371 @@
-﻿<p align="center">
-  <img src="assets/banner.png" alt="Banner" />
-</p>
+﻿
+<div align="center">
 
-<h1 align="center"><img src="assets/wave.gif" width="28" height="28" /> Hi, I'm Rafael 'Auris' Ancalipe</h1>
-<p align="center">
-Founder with a software engineering background. From ideas to products. Innovation with measurable results.
-</p>
+<img src="assets/banner.png" alt="Banner de Rafael Ancalipe" width="100%">
 
-<p align="center">
-  <a href="https://github.com/AurisKonig?tab=followers"><img src="https://img.shields.io/github/followers/AurisKonig?style=flat&label=Followers" /></a>
-  <a href="https://komarev.com/ghpvc/?username=AurisKonig"><img src="https://komarev.com/ghpvc/?username=AurisKonig&style=flat" /></a>
-  <a href="https://www.linkedin.com/in/rafaelancalipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Raphaelauris@gmail.com"><img src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@RaphaelAuris"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/auris_chess"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-</p>
+# Rafael "Auris" Ancalipe
 
-## What I do
-- Ventures: design offers, validate with customers, and set pricing.
-- Sales: prospecting, clear demos, closing, and measurable follow-up.
-- Growth: funnels, experiments, and simple metric-driven reporting.
-- Operations: standardize processes and use automation when it helps.
-- Cybersecurity and risk: essential practices for SMEs and startups.
-- Personal brand: useful content and real business cases.
+### Ingeniero Informático | Desarrollador Full Stack
 
-## Now
-- Daily work and study (security, automation, business).
-- Building the base for a profitable business before 30.
-- Documenting the whole process with no filter.
+**Desarrollo de Software · Backend & Frontend · Inteligencia Artificial**
 
-## Stack
-### Languages and frameworks
+Ingeniero Informático y Analista Programador titulado de Duoc UC, con experiencia en desarrollo de software, integración de APIs, automatización de procesos y soluciones tecnológicas.
+
+Mi enfoque profesional está centrado en el **desarrollo Full Stack**, con conocimientos en inteligencia artificial y el objetivo de especializarme progresivamente en su integración con aplicaciones de software.
+
+**Santiago, Chile | Inglés avanzado (TOEIC 940/990)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelancalipe/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AurisKonig)
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raphaelauris@gmail.com)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy Ingeniero Informático y Analista Programador Computacional, orientado al desarrollo de aplicaciones web y soluciones de software Full Stack.
+
+Cuento con experiencia profesional en organizaciones como **Walmart Chile, Banco de Chile, PwC y SCL Consultores**, participando en actividades relacionadas con desarrollo backend, integración de servicios, automatización, seguridad informática y monitoreo de sistemas.
+
+He trabajado con tecnologías como **React, JavaScript, TypeScript, Python, PHP, Laravel, Node.js, SQL y Firebase**, además de herramientas de desarrollo, bases de datos y control de versiones.
+
+Me interesa construir aplicaciones que integren:
+
+- Interfaces funcionales y mantenibles.
+- Servicios backend y lógica de negocio.
+- APIs REST e integración de sistemas.
+- Autenticación y control de acceso.
+- Modelado y persistencia de datos.
+- Seguridad y buenas prácticas de desarrollo.
+- Automatización y optimización de procesos.
+
+Actualmente busco continuar desarrollándome profesionalmente como **Desarrollador Full Stack**, profundizando paralelamente mis conocimientos en Inteligencia Artificial aplicada a la ingeniería de software.
+
+---
+
+## Stack tecnológico
+
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Tecnologías frontend">
 </p>
 
-### Automation and data
+HTML5 · CSS3 · JavaScript · TypeScript · React
+
+### Backend y APIs
+
 <p>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/requests-3B78E7?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel" alt="Tecnologías backend">
 </p>
 
-### Back end and APIs
+Node.js · Python · Java · PHP · Laravel · APIs REST
+
+### Bases de datos
+
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-005571?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/LDAP-0C479D?logo=databricks&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Bases de datos">
 </p>
 
-### Databases and cloud
+PostgreSQL · MySQL · SQLite · Oracle SQL · Cloud Firestore
+
+**Herramientas:** DBeaver y Oracle SQL Developer.
+
+### Herramientas de desarrollo
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Herramientas de desarrollo">
 </p>
 
-### Security and compliance
-- ISO/IEC 27001
-- IT audit support
-- Deliverable quality control
+Git · GitHub · Docker · Postman · Visual Studio Code
 
-## My progress: from 0 to my first million
+### Automatización y análisis de datos
 
-### What I'm doing today
-- Learning: business and topics aligned to my interests
-- Study: “The Lean Startup”
-- Execution: study and immediate application of what I learn
-- Weekly result: successful
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
 
-## Services
-- Startup MVP (Web/App): functional prototype to validate with customers.
-- Custom product (SaaS B2B/B2C): web solution ready to charge and scale.
-- Mobile MVP (Expo/React Native): basic app published on Android/iOS.
-- Integrations and Payments (APIs/CRM/ERP): systems integration, checkout, and invoicing.
-- RPA Automation (Python): bots that save time on repetitive tasks.
-- Data and dashboards: collection, cleaning, and reporting in Power BI/Looker/Excel.
-- Performance and technical SEO: speed, accessibility, and search visibility.
-- Cybersecurity and Risk (ISO 27001): essential controls and IT audit support.
-- Maintenance and support: improvements, monitoring, and incident resolution.
+Python · Pandas · Selenium · RPA · Power BI · Excel avanzado
 
-## How I work
+### Monitoreo y observabilidad
 
-1) Understand the problem
-- What it is, how it works today, and the value it delivers
-- Who it's for and what pain it solves
+Dynatrace · Atentus · Grafana
 
-2) Design the solution
-- What I will do and will not do
-- Assumptions, risks, and a success metric
+---
 
-3) Architecture
-- Front end, back end, data, and integrations
-- Basic security (credentials, permissions, backups)
+## Proyectos destacados
 
-4) MVP (Minimum Viable Product)
-- Hypotheses, smallest scope, and validation criteria
-- Test plan with real users
+### Chess Study | Plataforma de análisis y aprendizaje de ajedrez
 
-5) Build
-- Fast and stable implementation
-- Basic testing and deployment
+**Proyecto académico colaborativo | MVP funcional**
 
-6) Measure and learn
-- Collect data and compare to the metric
-- Adjust or discard based on results
+Aplicación web educativa desarrollada para analizar partidas de ajedrez y apoyar el aprendizaje estratégico mediante un entrenador virtual.
 
-7) Scale and maintain
-- Improvements by impact
-- SOPs, documentation, and support
+El proyecto integra un motor de análisis de ajedrez, autenticación de usuarios y almacenamiento de estudios y partidas.
 
-## Contact
-- Email: Raphaelauris@gmail.com
-- Booking: [Book on Calendly](https://calendly.com/raphaelauris/interview)
+**Tecnologías utilizadas**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stockfish](https://img.shields.io/badge/Stockfish-Chess_Engine-333333?style=flat-square)
+
+**Funcionalidades implementadas**
+
+- Integración funcional de Stockfish para analizar partidas.
+- Evaluación de movimientos y retroalimentación para el usuario.
+- Importación y procesamiento de partidas mediante archivos PGN.
+- Autenticación con correo electrónico y Google mediante Firebase Authentication.
+- Persistencia de estudios y partidas mediante Cloud Firestore.
+- Clasificación y comentarios de movimientos.
+- Biblioteca personal para organizar partidas y estudios.
+
+**Aspectos técnicos**
+
+- Integración de un motor de análisis externo.
+- Desarrollo de interfaces interactivas con React.
+- Implementación de autenticación y persistencia de datos.
+- Control de versiones y colaboración mediante Git y GitHub.
+
+[Ver repositorio de Chess Study](https://github.com/AurisKonig/Chess_Study)
+
+---
+
+### Conde-access | Proyecto de software
+
+**Estado: pendiente de publicación**
+
+Proyecto de desarrollo de software que será incorporado próximamente al portafolio.
+
+La documentación técnica incluirá su arquitectura, stack tecnológico, funcionalidades implementadas y decisiones de diseño.
+
+**Repositorio:** Próximamente disponible.
+
+---
+
+### Rentify | Plataforma de administración de arriendos
+
+**Proyecto PropTech | En desarrollo**
+
+Rentify es una plataforma orientada a la administración de arriendos residenciales.
+
+El proyecto busca facilitar la gestión inmobiliaria mediante una solución web que centralice información y procesos relacionados con propiedades y arriendos.
+
+**Usuarios objetivo**
+
+- Propietarios.
+- Administradores de propiedades.
+- Arrendatarios.
+- Corredores de propiedades.
+
+**Alcance técnico previsto**
+
+- Aplicación web Full Stack.
+- Arquitectura organizada y mantenible.
+- Gestión de usuarios y roles.
+- Modelado de información inmobiliaria.
+- Persistencia de datos.
+- Integración de servicios.
+
+Las funcionalidades se documentarán según su implementación y validación.
+
+**Repositorio:** Próximamente disponible.
+
+---
+
+## Experiencia profesional
+
+### Walmart Chile | Desarrollo Backend y Automatización
+
+**Desarrollador Back-End y RPA — Práctica profesional**
+
+Enero – Marzo 2024
+
+Participé en el desarrollo de soluciones backend y automatización de procesos operativos.
+
+**Contribuciones**
+
+- Desarrollo de APIs REST mediante PHP y Laravel.
+- Integración con LDAP para autenticación y control de acceso.
+- Participación en un sistema de inventario que soportaba más de 1.000 solicitudes diarias.
+- Automatización de procesos mediante Python y Selenium.
+- Reducción del 67 % en el tiempo de procesamiento de pedidos.
+
+**Tecnologías:** PHP, Laravel, APIs REST, LDAP, Python y Selenium.
+
+---
+
+### Banco de Chile | Automatización y Seguridad Tecnológica
+
+**Riesgo Tecnológico y Seguridad de la Información — Práctica profesional**
+
+Agosto – Noviembre 2025
+
+Desarrollé soluciones de automatización para optimizar procesos de reporting y recolección de evidencias de seguridad.
+
+**Contribuciones**
+
+- Desarrollo de bots RPA con Python, Pandas y Selenium.
+- Automatización de la recolección y consolidación de evidencias de controles.
+- Construcción de pipelines de procesamiento de información.
+- Desarrollo de dashboards de KPIs de seguridad y riesgo tecnológico.
+- Reducción del 60 % al 70 % en tiempos de reporting.
+
+**Tecnologías:** Python, Pandas, Selenium, RPA y herramientas de análisis de datos.
+
+---
+
+### PwC Chile | Ciberseguridad y Controles TI
+
+**Analista de TI Ciberseguridad — Práctica profesional**
+
+Enero – Marzo 2025
+
+Participé en actividades de evaluación de controles tecnológicos y seguridad de la información.
+
+**Contribuciones**
+
+- Ejecución de procedimientos ITGC e ISO/IEC 27001.
+- Evaluación de controles para clientes de los sectores retail y financiero.
+- Estandarización de documentación y papeles de trabajo.
+- Seguimiento de hallazgos mediante Jira.
+
+**Áreas:** Seguridad de la Información, controles TI, gestión de riesgos y documentación técnica.
+
+---
+
+### SCL Consultores | Monitoreo de Servicios TI
+
+**Técnico en Monitoreo TI**
+
+Junio – Julio 2026
+
+Participé en el monitoreo de disponibilidad y rendimiento de servicios tecnológicos.
+
+**Contribuciones**
+
+- Monitoreo mediante Dynatrace, Atentus y Grafana.
+- Identificación de anomalías y alertas operacionales.
+- Gestión y escalamiento de incidentes.
+- Seguimiento del estado de servicios tecnológicos.
+
+**Herramientas:** Dynatrace, Atentus y Grafana.
+
+---
+
+### Auris Digital Studio | Desarrollo y Servicios Tecnológicos
+
+**Asesor y Desarrollador Freelance**
+
+2023 – 2025
+
+- Desarrollo de soluciones web para clientes particulares.
+- Diagnóstico y resolución de problemas de hardware y software.
+- Gestión de requerimientos y consultas de clientes.
+- Orientación y soporte técnico.
+
+---
+
+## Inteligencia Artificial
+
+### Área de aprendizaje y especialización profesional
+
+Cuento con conocimientos en Inteligencia Artificial Generativa y experiencia utilizando herramientas como **ChatGPT, Gemini y Claude** para apoyar actividades de desarrollo de software, investigación técnica, análisis y resolución de problemas.
+
+Actualmente estoy profundizando mis conocimientos en inteligencia artificial con el objetivo de especializarme progresivamente en su aplicación a soluciones de software Full Stack.
+
+**Áreas de interés**
+
+- Integración de APIs y modelos de IA en aplicaciones web.
+- Desarrollo de funcionalidades asistidas por inteligencia artificial.
+- Automatización de procesos mediante IA.
+- Fundamentos de Machine Learning.
+- Procesamiento y análisis de datos.
+- Diseño de aplicaciones que integren servicios inteligentes.
+
+Mi objetivo es combinar una base sólida en desarrollo Full Stack con conocimientos especializados en IA, para construir soluciones tecnológicas cada vez más completas.
+
+---
+
+## Competencias de ingeniería de software
+
+| Área | Competencias |
+|---|---|
+| Frontend | Desarrollo web, interfaces, componentes e integración de APIs |
+| Backend | Servicios, lógica de negocio, APIs REST y autenticación |
+| Bases de datos | SQL, modelado, persistencia y consultas |
+| Integración | Comunicación entre sistemas y servicios externos |
+| Automatización | Python, Selenium, Pandas y RPA |
+| Seguridad | Control de acceso, gestión de riesgos y buenas prácticas |
+| Herramientas | Git, GitHub, Docker, Postman y entornos de desarrollo |
+| Metodologías | Scrum, análisis de requerimientos y mejora continua |
+
+---
+
+## Formación académica
+
+### Duoc UC
+
+**Ingeniería en Informática**
+
+**Analista Programador Computacional**
+
+Formación orientada al desarrollo de software, programación, bases de datos, análisis de sistemas e ingeniería informática.
+
+---
+
+## Certificaciones y cursos
+
+- Scrum Foundation Professional Certificate — CertiProf.
+- Google Cybersecurity Professional Certificate.
+- Software Engineer Certificate.
+- Software Engineer Intern Certificate.
+
+---
+
+## Idiomas
+
+**Español:** Nativo.
+
+**Inglés:** Avanzado — TOEIC 940/990.
+
+---
+
+## Objetivos profesionales
+
+- Consolidar mi trayectoria como desarrollador Full Stack.
+- Participar en proyectos de desarrollo de software e ingeniería de aplicaciones.
+- Fortalecer mis conocimientos de arquitectura, backend y bases de datos.
+- Construir soluciones web seguras, funcionales y mantenibles.
+- Continuar desarrollando proyectos que demuestren mis competencias técnicas.
+- Profundizar mis conocimientos en Inteligencia Artificial.
+- Avanzar hacia la integración profesional de IA en aplicaciones Full Stack.
+
+---
+
+## Contacto profesional
+
+Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software, desarrollo Full Stack e ingeniería de aplicaciones.
+
+**Ubicación:** Santiago, Chile
+
+**Correo:** [Raphaelauris@gmail.com](mailto:Raphaelauris@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/rafaelancalipe](https://www.linkedin.com/in/rafaelancalipe/)
+
+**GitHub:** [github.com/AurisKonig](https://github.com/AurisKonig)
+
+---
+
+<div align="center">
+
+### Full Stack Development | Software Engineering
+
+**Desarrollo de software, aprendizaje continuo e innovación tecnológica.**
+
+</div>
