@@ -92,31 +92,32 @@ Con conocimientos en inteligencia artificial y en proceso de profundizar en su i
 
 ### Chess Study
 
-**Chess Analysis & Learning Platform**
+**Plataforma Full Stack para análisis y aprendizaje de ajedrez**
 
-Aplicación web educativa para el estudio y análisis de partidas de ajedrez, desarrollada como proyecto académico colaborativo.
+Aplicación web desarrollada con React y Firebase que integra Stockfish para analizar partidas y proporcionar retroalimentación sobre movimientos.
 
-Integra Stockfish para analizar partidas y ofrecer retroalimentación sobre los movimientos realizados.
+<p align="center">
+  <img src="assets/projects/chess-study/analysis.png" alt="Chess Study - Análisis de partidas con Stockfish" width="90%">
+</p>
 
-**Stack**
+<p align="center">
+  <img src="assets/projects/chess-study/dashboard.png" alt="Chess Study - Panel principal" width="75%">
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Stockfish](https://img.shields.io/badge/Stockfish-333333?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore">
+  <img src="https://img.shields.io/badge/Stockfish-333333?style=flat-square" alt="Stockfish">
+</p>
 
-**Características principales**
+**Funcionalidades:** análisis con Stockfish, importación PGN, autenticación con Google y correo electrónico, biblioteca de estudios y persistencia en Firestore.
 
-- Análisis de partidas mediante Stockfish.
-- Importación de archivos PGN.
-- Autenticación mediante correo electrónico y Google.
-- Almacenamiento de estudios y partidas en Cloud Firestore.
-- Evaluación y comentarios de movimientos.
-- Biblioteca personal de estudios.
-
-**Estado:** MVP funcional.
-
-[**View Repository**](https://github.com/AurisKonig/Chess_Study)
+<p align="center">
+  <a href="https://github.com/AurisKonig/Chess_Study">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio">
+  </a>
+</p>
 
 ---
 
