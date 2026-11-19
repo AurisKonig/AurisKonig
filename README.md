@@ -5,19 +5,19 @@
 
 # Rafael "Auris" Ancalipe
 
-### Ingeniero Informático | Desarrollador Full Stack
+### Ingeniero Informático | Full Stack Developer
 
-**Desarrollo de Software · Backend & Frontend · Inteligencia Artificial**
+**Desarrollo de Software · Aplicaciones Web · Inteligencia Artificial**
 
-Ingeniero Informático y Analista Programador titulado de Duoc UC, con experiencia en desarrollo de software, integración de APIs, automatización de procesos y soluciones tecnológicas.
+Desarrollador Full Stack con conocimientos en frontend, backend, bases de datos, integración de APIs y automatización de procesos.
 
-Mi enfoque profesional está centrado en el **desarrollo Full Stack**, con conocimientos en inteligencia artificial y el objetivo de especializarme progresivamente en su integración con aplicaciones de software.
+Actualmente profundizando mis conocimientos en Inteligencia Artificial, con el objetivo de especializarme en su integración con aplicaciones y productos digitales.
 
-**Santiago, Chile | Inglés avanzado (TOEIC 940/990)**
+**Santiago, Chile · Inglés B2**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelancalipe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AurisKonig)
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raphaelauris@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raphaelauris@gmail.com)
 
 </div>
 
@@ -25,90 +25,77 @@ Mi enfoque profesional está centrado en el **desarrollo Full Stack**, con conoc
 
 ## Sobre mí
 
-Soy Ingeniero Informático y Analista Programador Computacional, orientado al desarrollo de aplicaciones web y soluciones de software Full Stack.
+Soy Ingeniero Informático y Analista Programador Computacional titulado de Duoc UC, enfocado en el desarrollo de software Full Stack.
 
-Cuento con experiencia profesional en organizaciones como **Walmart Chile, Banco de Chile, PwC y SCL Consultores**, participando en actividades relacionadas con desarrollo backend, integración de servicios, automatización, seguridad informática y monitoreo de sistemas.
+Me interesa construir aplicaciones web funcionales, mantenibles y escalables, combinando interfaces intuitivas, servicios backend, APIs y bases de datos.
 
-He trabajado con tecnologías como **React, JavaScript, TypeScript, Python, PHP, Laravel, Node.js, SQL y Firebase**, además de herramientas de desarrollo, bases de datos y control de versiones.
-
-Me interesa construir aplicaciones que integren:
-
-- Interfaces funcionales y mantenibles.
-- Servicios backend y lógica de negocio.
-- APIs REST e integración de sistemas.
-- Autenticación y control de acceso.
-- Modelado y persistencia de datos.
-- Seguridad y buenas prácticas de desarrollo.
-- Automatización y optimización de procesos.
-
-Actualmente busco continuar desarrollándome profesionalmente como **Desarrollador Full Stack**, profundizando paralelamente mis conocimientos en Inteligencia Artificial aplicada a la ingeniería de software.
+También cuento con conocimientos en inteligencia artificial generativa y busco seguir profundizando en su aplicación a la ingeniería de software.
 
 ---
-
 
 ## Stack tecnológico
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML5, CSS3, JavaScript, TypeScript y React">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="HTML, CSS, JavaScript, TypeScript y React">
 </p>
 
-### Backend y lenguajes de programación
+HTML5 · CSS3 · JavaScript · TypeScript · React
+
+### Backend y lenguajes
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,laravel,solidity" alt="Node.js, Python, Java, PHP, Laravel y Solidity">
 </p>
 
+Node.js · Python · Java · PHP · Laravel · Solidity · APIs REST
+
 ### Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="PostgreSQL, MySQL, SQLite y Firebase">
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="48" height="48">
 </p>
 
-**Tecnologías:** PostgreSQL, MySQL, SQLite, Oracle SQL y Cloud Firestore.
+<p>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logoColor=white" alt="Oracle SQL">
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore">
+</p>
+
+PostgreSQL · MySQL · SQLite · Oracle SQL · Cloud Firestore
 
 ### Herramientas de desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, Visual Studio Code y Postman">
-  <img src="https://cdn.simpleicons.org/dbeaver/382923" alt="DBeaver" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code y Postman">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logoColor=white" alt="DBeaver">
+  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logoColor=white" alt="SQL Developer">
+</p>
+
+Git · GitHub · Docker · VS Code · Postman · DBeaver · SQL Developer
 
 ### Automatización y análisis de datos
 
 <p>
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48">
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="48" height="48">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" width="48" height="48">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/RPA-334155?style=for-the-badge" alt="RPA">
 </p>
 
-**Áreas:** RPA, automatización de procesos, procesamiento de datos y dashboards.
-
-### Inteligencia Artificial Generativa
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-</p>
-
-**Conocimientos:** uso de herramientas de IA generativa para desarrollo de software, investigación técnica, análisis y resolución de problemas.
-
-**Objetivo:** profundizar en la integración de modelos y servicios de inteligencia artificial en aplicaciones Full Stack.
+Python · Pandas · Selenium · Power BI · Excel avanzado · RPA
 
 ### Monitoreo y observabilidad
 
 <p>
-  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="48" height="48">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge" alt="Dynatrace">
-  <img src="https://img.shields.io/badge/Atentus-444444?style=for-the-badge" alt="Atentus">
+  <img src="https://img.shields.io/badge/Atentus-475569?style=for-the-badge" alt="Atentus">
 </p>
-
-**Experiencia:** monitoreo de disponibilidad, rendimiento de servicios tecnológicos y gestión de alertas.
 
 ---
 
@@ -116,35 +103,32 @@ Actualmente busco continuar desarrollándome profesionalmente como **Desarrollad
 
 ### Chess Study | Plataforma de análisis y aprendizaje de ajedrez
 
-**Proyecto académico colaborativo | MVP funcional**
+**MVP funcional · Proyecto académico colaborativo**
 
-Aplicación web educativa desarrollada para analizar partidas de ajedrez y apoyar el aprendizaje estratégico mediante un entrenador virtual.
+Aplicación web orientada al aprendizaje y análisis de partidas de ajedrez mediante un entrenador virtual basado en Stockfish.
 
-El proyecto integra un motor de análisis de ajedrez, autenticación de usuarios y almacenamiento de estudios y partidas.
-
-**Tecnologías utilizadas**
+**Stack tecnológico**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Stockfish](https://img.shields.io/badge/Stockfish-Chess_Engine-333333?style=flat-square)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stockfish](https://img.shields.io/badge/Stockfish-333333?style=flat-square)
 
 **Funcionalidades implementadas**
 
-- Integración funcional de Stockfish para analizar partidas.
-- Evaluación de movimientos y retroalimentación para el usuario.
-- Importación y procesamiento de partidas mediante archivos PGN.
-- Autenticación con correo electrónico y Google mediante Firebase Authentication.
-- Persistencia de estudios y partidas mediante Cloud Firestore.
-- Clasificación y comentarios de movimientos.
-- Biblioteca personal para organizar partidas y estudios.
+- Análisis de partidas mediante Stockfish.
+- Importación y procesamiento de archivos PGN.
+- Autenticación con correo electrónico y Google.
+- Almacenamiento de estudios y partidas mediante Cloud Firestore.
+- Evaluación y comentarios de movimientos.
+- Biblioteca personal de estudios.
 
-**Aspectos técnicos**
+**Aspectos técnicos destacados**
 
+- Desarrollo de interfaces con React.
 - Integración de un motor de análisis externo.
-- Desarrollo de interfaces interactivas con React.
-- Implementación de autenticación y persistencia de datos.
-- Control de versiones y colaboración mediante Git y GitHub.
+- Gestión de autenticación y persistencia de datos.
+- Trabajo colaborativo mediante Git y GitHub.
 
 [Ver repositorio de Chess Study](https://github.com/AurisKonig/Chess_Study)
 
@@ -152,11 +136,9 @@ El proyecto integra un motor de análisis de ajedrez, autenticación de usuarios
 
 ### Conde-access | Proyecto de software
 
-**Estado: pendiente de publicación**
+**Pendiente de publicación**
 
-Proyecto de desarrollo de software que será incorporado próximamente al portafolio.
-
-La documentación técnica incluirá su arquitectura, stack tecnológico, funcionalidades implementadas y decisiones de diseño.
+Proyecto de desarrollo de software que será incorporado al portafolio junto con su documentación técnica, arquitectura y funcionalidades implementadas.
 
 **Repositorio:** Próximamente disponible.
 
@@ -164,209 +146,57 @@ La documentación técnica incluirá su arquitectura, stack tecnológico, funcio
 
 ### Rentify | Plataforma de administración de arriendos
 
-**Proyecto PropTech | En desarrollo**
+**PropTech · En desarrollo**
 
-Rentify es una plataforma orientada a la administración de arriendos residenciales.
+Proyecto orientado a la administración de arriendos residenciales mediante una plataforma web.
 
-El proyecto busca facilitar la gestión inmobiliaria mediante una solución web que centralice información y procesos relacionados con propiedades y arriendos.
+El sistema está pensado para propietarios, administradores, arrendatarios y corredores de propiedades.
 
-**Usuarios objetivo**
-
-- Propietarios.
-- Administradores de propiedades.
-- Arrendatarios.
-- Corredores de propiedades.
-
-**Alcance técnico previsto**
+**Alcance previsto**
 
 - Aplicación web Full Stack.
-- Arquitectura organizada y mantenible.
 - Gestión de usuarios y roles.
-- Modelado de información inmobiliaria.
-- Persistencia de datos.
+- Administración de información inmobiliaria.
+- Persistencia y organización de datos.
 - Integración de servicios.
 
-Las funcionalidades se documentarán según su implementación y validación.
+Las funcionalidades se documentarán a medida que sean implementadas.
 
 **Repositorio:** Próximamente disponible.
 
 ---
 
-## Experiencia profesional
-
-### Walmart Chile | Desarrollo Backend y Automatización
-
-**Desarrollador Back-End y RPA — Práctica profesional**
-
-Enero – Marzo 2024
-
-Participé en el desarrollo de soluciones backend y automatización de procesos operativos.
-
-**Contribuciones**
-
-- Desarrollo de APIs REST mediante PHP y Laravel.
-- Integración con LDAP para autenticación y control de acceso.
-- Participación en un sistema de inventario que soportaba más de 1.000 solicitudes diarias.
-- Automatización de procesos mediante Python y Selenium.
-- Reducción del 67 % en el tiempo de procesamiento de pedidos.
-
-**Tecnologías:** PHP, Laravel, APIs REST, LDAP, Python y Selenium.
-
----
-
-### Banco de Chile | Automatización y Seguridad Tecnológica
-
-**Riesgo Tecnológico y Seguridad de la Información — Práctica profesional**
-
-Agosto – Noviembre 2025
-
-Desarrollé soluciones de automatización para optimizar procesos de reporting y recolección de evidencias de seguridad.
-
-**Contribuciones**
-
-- Desarrollo de bots RPA con Python, Pandas y Selenium.
-- Automatización de la recolección y consolidación de evidencias de controles.
-- Construcción de pipelines de procesamiento de información.
-- Desarrollo de dashboards de KPIs de seguridad y riesgo tecnológico.
-- Reducción del 60 % al 70 % en tiempos de reporting.
-
-**Tecnologías:** Python, Pandas, Selenium, RPA y herramientas de análisis de datos.
-
----
-
-### PwC Chile | Ciberseguridad y Controles TI
-
-**Analista de TI Ciberseguridad — Práctica profesional**
-
-Enero – Marzo 2025
-
-Participé en actividades de evaluación de controles tecnológicos y seguridad de la información.
-
-**Contribuciones**
-
-- Ejecución de procedimientos ITGC e ISO/IEC 27001.
-- Evaluación de controles para clientes de los sectores retail y financiero.
-- Estandarización de documentación y papeles de trabajo.
-- Seguimiento de hallazgos mediante Jira.
-
-**Áreas:** Seguridad de la Información, controles TI, gestión de riesgos y documentación técnica.
-
----
-
-### SCL Consultores | Monitoreo de Servicios TI
-
-**Técnico en Monitoreo TI**
-
-Junio – Julio 2026
-
-Participé en el monitoreo de disponibilidad y rendimiento de servicios tecnológicos.
-
-**Contribuciones**
-
-- Monitoreo mediante Dynatrace, Atentus y Grafana.
-- Identificación de anomalías y alertas operacionales.
-- Gestión y escalamiento de incidentes.
-- Seguimiento del estado de servicios tecnológicos.
-
-**Herramientas:** Dynatrace, Atentus y Grafana.
-
----
-
-### Auris Digital Studio | Desarrollo y Servicios Tecnológicos
-
-**Asesor y Desarrollador Freelance**
-
-2023 – 2025
-
-- Desarrollo de soluciones web para clientes particulares.
-- Diagnóstico y resolución de problemas de hardware y software.
-- Gestión de requerimientos y consultas de clientes.
-- Orientación y soporte técnico.
-
----
-
 ## Inteligencia Artificial
 
-### Área de aprendizaje y especialización profesional
+### Área de especialización en desarrollo
 
-Cuento con conocimientos en Inteligencia Artificial Generativa y experiencia utilizando herramientas como **ChatGPT, Gemini y Claude** para apoyar actividades de desarrollo de software, investigación técnica, análisis y resolución de problemas.
+Cuento con conocimientos en Inteligencia Artificial Generativa y utilizo herramientas como ChatGPT, Gemini y Claude para apoyar actividades de desarrollo de software, investigación técnica y resolución de problemas.
 
-Actualmente estoy profundizando mis conocimientos en inteligencia artificial con el objetivo de especializarme progresivamente en su aplicación a soluciones de software Full Stack.
+Actualmente busco profundizar en la integración de inteligencia artificial con aplicaciones Full Stack.
 
 **Áreas de interés**
 
-- Integración de APIs y modelos de IA en aplicaciones web.
-- Desarrollo de funcionalidades asistidas por inteligencia artificial.
-- Automatización de procesos mediante IA.
+- Integración de APIs y modelos de IA.
+- Desarrollo de aplicaciones asistidas por IA.
+- Automatización inteligente.
 - Fundamentos de Machine Learning.
 - Procesamiento y análisis de datos.
-- Diseño de aplicaciones que integren servicios inteligentes.
 
-Mi objetivo es combinar una base sólida en desarrollo Full Stack con conocimientos especializados en IA, para construir soluciones tecnológicas cada vez más completas.
-
----
-
-## Competencias de ingeniería de software
-
-| Área | Competencias |
-|---|---|
-| Frontend | Desarrollo web, interfaces, componentes e integración de APIs |
-| Backend | Servicios, lógica de negocio, APIs REST y autenticación |
-| Bases de datos | SQL, modelado, persistencia y consultas |
-| Integración | Comunicación entre sistemas y servicios externos |
-| Automatización | Python, Selenium, Pandas y RPA |
-| Seguridad | Control de acceso, gestión de riesgos y buenas prácticas |
-| Herramientas | Git, GitHub, Docker, Postman y entornos de desarrollo |
-| Metodologías | Scrum, análisis de requerimientos y mejora continua |
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" alt="Claude">
+</p>
 
 ---
 
-## Formación académica
+## Contacto
 
-### Duoc UC
-
-**Ingeniería en Informática**
-
-**Analista Programador Computacional**
-
-Formación orientada al desarrollo de software, programación, bases de datos, análisis de sistemas e ingeniería informática.
-
----
-
-## Certificaciones y cursos
-
-- Scrum Foundation Professional Certificate — CertiProf.
-- Google Cybersecurity Professional Certificate.
-- Software Engineer Certificate.
-- Software Engineer Intern Certificate.
-
----
-
-## Idiomas
-
-**Español:** Nativo.
-
-**Inglés:** Avanzado — TOEIC 940/990.
-
----
-
-## Objetivos profesionales
-
-- Consolidar mi trayectoria como desarrollador Full Stack.
-- Participar en proyectos de desarrollo de software e ingeniería de aplicaciones.
-- Fortalecer mis conocimientos de arquitectura, backend y bases de datos.
-- Construir soluciones web seguras, funcionales y mantenibles.
-- Continuar desarrollando proyectos que demuestren mis competencias técnicas.
-- Profundizar mis conocimientos en Inteligencia Artificial.
-- Avanzar hacia la integración profesional de IA en aplicaciones Full Stack.
-
----
-
-## Contacto profesional
-
-Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software, desarrollo Full Stack e ingeniería de aplicaciones.
+Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software e ingeniería de aplicaciones Full Stack.
 
 **Ubicación:** Santiago, Chile
+
+**Inglés:** B2
 
 **Correo:** [Raphaelauris@gmail.com](mailto:Raphaelauris@gmail.com)
 
@@ -380,6 +210,6 @@ Estoy interesado en oportunidades profesionales relacionadas con desarrollo de s
 
 ### Full Stack Development | Software Engineering
 
-**Desarrollo de software, aprendizaje continuo e innovación tecnológica.**
+**Construyendo soluciones de software y avanzando hacia la especialización en Inteligencia Artificial.**
 
 </div>
